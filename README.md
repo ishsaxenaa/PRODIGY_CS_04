@@ -15,4 +15,4 @@ Requirements
 Usage
 - Run the Script
 - Capture Keystrokes: The script will start logging keystrokes and save them to keylogs.txt.
-Stop Logging: Press the 'esc' key to stop the keylogger.
+- Stop Logging: Press the 'esc' key to stop the keylogger.

@@ -9,10 +9,10 @@ Features
 - Basic Logging: Differentiates between spaces, enter key presses, and printable characters.
   
 Requirements
--Python 3.x
--pynput library (pip install pynput)
+- Python 3.x
+- pynput library (pip install pynput)
 
 Usage
--Run the Script
--Capture Keystrokes: The script will start logging keystrokes and save them to keylogs.txt.
+- Run the Script
+- Capture Keystrokes: The script will start logging keystrokes and save them to keylogs.txt.
 Stop Logging: Press the 'esc' key to stop the keylogger.
